@@ -91,4 +91,9 @@ as regras de decisão aplicadas e a previsão por regressão.
 ├── sigec.py     # Sistema completo, organizado em funções
 └── README.md    # Este arquivo
 ```
-# AURORA-SIGEC
+
+## Autor - João Pedro
+
+Desenvolvido como atividade acadêmica integradora.  
+Curso: **[Ciência da Computação]** — **[FIAP]**  
+Período: **[2026/ 1º (semestre/fase)]**
